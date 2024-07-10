@@ -18,6 +18,10 @@ import DoneIcon from '@mui/icons-material/Done';
 import LockIcon from '@mui/icons-material/Lock';
 import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import Footer from './Footer'
+// "start": "react-scripts start",
+// "build": "react-scripts build",
+// "test": "react-scripts test",
+// "eject": "react-scripts eject"
 export default function Academy() {
     return (
         <div>
