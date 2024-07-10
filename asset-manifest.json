@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/academic-page/static/css/main.d435f2de.css",
+    "main.js": "/academic-page/static/js/main.1e2fdf82.js",
+    "static/js/453.e0851ae8.chunk.js": "/academic-page/static/js/453.e0851ae8.chunk.js",
+    "static/media/game.svg": "/academic-page/static/media/game.5cf48b732cd797f841dacb97332a2a07.svg",
+    "static/media/prize-gif.gif": "/academic-page/static/media/prize-gif.e9f41bef17dc2e844e6f.gif",
+    "static/media/app-bg.png": "/academic-page/static/media/app-bg.2fbcaa3436f74a96d27d.png",
+    "static/media/head-gif.gif": "/academic-page/static/media/head-gif.239cb230972862f504b8.gif",
+    "static/media/dot.png": "/academic-page/static/media/dot.8f446a036d66458c6cf8.png",
+    "static/media/coin.svg": "/academic-page/static/media/coin.cba553915bac64f88ba3f22f1978c781.svg",
+    "static/media/cat.png": "/academic-page/static/media/cat.c988e62e0459f8452c92.png",
+    "static/media/flower.png": "/academic-page/static/media/flower.8c396bc4ec27b1eaf626.png",
+    "static/media/quest.png": "/academic-page/static/media/quest.a90e029471c5f9319ba1.png",
+    "static/media/cat-2.png": "/academic-page/static/media/cat-2.6c66f280d23dde61c9ba.png",
+    "static/media/frog.png": "/academic-page/static/media/frog.a0e63bd549c28a7cd9c7.png",
+    "static/media/cat-3.png": "/academic-page/static/media/cat-3.fbe13f65a830116d37cc.png",
+    "static/media/monkey.png": "/academic-page/static/media/monkey.7c61bb1caef2d2a3dc75.png",
+    "static/media/horse.png": "/academic-page/static/media/horse.bdd0a87bc16b4ea474a0.png",
+    "static/media/header-icon.svg": "/academic-page/static/media/header-icon.0142ab7299d0802afc5bb4c795ae4bd5.svg",
+    "index.html": "/academic-page/index.html",
+    "main.d435f2de.css.map": "/academic-page/static/css/main.d435f2de.css.map",
+    "main.1e2fdf82.js.map": "/academic-page/static/js/main.1e2fdf82.js.map",
+    "453.e0851ae8.chunk.js.map": "/academic-page/static/js/453.e0851ae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d435f2de.css",
+    "static/js/main.1e2fdf82.js"
+  ]
+}
